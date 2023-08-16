@@ -20,6 +20,8 @@ StreamSave is an innovative mobile application that revolutionizes the way you s
 3. *Allow Tracking*: Grant the app permission to track your viewing habits. Don't worry, your data is kept secure and private.
 4. *Receive Recommendations*: Once the app has gathered enough data about your viewing habits, it will provide you with personalized channel subscription recommendations.
 
+### Design and developed by Nitesh JK and Lucky N chajjer
+
 ## Home![Home](https://github.com/Luckychajjer/streamsave/assets/85841767/598f28bc-6bc8-4596-9eab-8aaa3592697d)
 ## Current subscription![Current_sub](https://github.com/Luckychajjer/streamsave/assets/85841767/9b7433c7-c1a9-47c9-8d01-933e26e6675a)
 ## Recommended subscription![Recommended_sub](https://github.com/Luckychajjer/streamsave/assets/85841767/329dc211-ab13-4ecc-95df-c8b952f64cfe)
