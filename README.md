@@ -1,4 +1,4 @@
-# streamsave!
+# StreamSave
 StreamSave is an innovative mobile application that revolutionizes the way you select and subscribe to television channels. It helps you make the most out of your channel subscriptions by intelligently tracking your TV viewing habits and recommending the best subscription plans tailored to your usage.
 
 ## Features
@@ -19,3 +19,12 @@ StreamSave is an innovative mobile application that revolutionizes the way you s
 2. *Create a Profile*: Upon opening the app, create your user profile. This step is essential to tailor the recommendations to your preferences.
 3. *Allow Tracking*: Grant the app permission to track your viewing habits. Don't worry, your data is kept secure and private.
 4. *Receive Recommendations*: Once the app has gathered enough data about your viewing habits, it will provide you with personalized channel subscription recommendations.
+
+![Usage](https://github.com/Luckychajjer/streamsave/assets/85841767/0e869c6c-6e01-4fcb-a830-0d79b4a43333)
+![Uploading Profile.png…]()
+![Uploading Usage_stats.png…]()
+![Recommended_sub](https://github.com/Luckychajjer/streamsave/assets/85841767/329dc211-ab13-4ecc-95df-c8b952f64cfe)
+![Uploading Current_sub.png…]()
+![Uploading Home.png…]()
+
+
