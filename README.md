@@ -22,8 +22,9 @@ StreamSave is an innovative mobile application that revolutionizes the way you s
 
 ### Design and developed by Nitesh JK and Lucky N chajjer
 
+
 ## Home![Home](https://github.com/Luckychajjer/streamsave/assets/85841767/598f28bc-6bc8-4596-9eab-8aaa3592697d)
-## Current subscription![Current_sub](https://github.com/Luckychajjer/streamsave/assets/85841767/9b7433c7-c1a9-47c9-8d01-933e26e6675a)
+## Current subscription![Current_sub](https://github.com/Luckychajjer/streamsave/assets/85841767/6750ac68-a058-4759-b740-97bf526ddbf6)
 ## Recommended subscription![Recommended_sub](https://github.com/Luckychajjer/streamsave/assets/85841767/329dc211-ab13-4ecc-95df-c8b952f64cfe)
 ## Usage![Usage](https://github.com/Luckychajjer/streamsave/assets/85841767/0e869c6c-6e01-4fcb-a830-0d79b4a43333)
 ## Usage statistics![Usage_stats](https://github.com/Luckychajjer/streamsave/assets/85841767/b456576b-82c7-4068-a957-c3681f5a0f6c)
